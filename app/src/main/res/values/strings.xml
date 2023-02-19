@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CarFax</string>
+    <string name="error_permission_call_dealer">To call, please allow this permission in your settings</string>
+    <string name="call_dealer">CALL DEALER</string>
+    <string name="call_dealer_dialog">Are you sure you want to call %s</string>
+    <string name="miles_short">mi</string>
+    <string name="vehicle_info">Vehicle Info</string>
+    <string name="location">Location</string>
+    <string name="exterion_color">Exterior Color</string>
+    <string name="interion_color">Interior Color</string>
+    <string name="drive_type">Drive Type</string>
+    <string name="transmission">Transmission</string>
+    <string name="body_style">Body Style</string>
+    <string name="engine">Engine</string>
+    <string name="fuel">Fuel</string>
+    <string name="car_is_not_found">Car is not found</string>
+    <string name="no">No</string>
+    <string name="call">Call</string>
+</resources>
